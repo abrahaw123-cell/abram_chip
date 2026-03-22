@@ -59,9 +59,10 @@ tokens  →  observable density  (ρ(r))
 → [ABRAMGOCHI](https://github.com/abrahaw123-cell/abramgochi) — relational agent network with genetic evolution
 
 ---
-- [x] ABRAM_CHIP — 1.198 bpb con 43 KB
-- [x] Supera línea base del concurso
-- [x] 0.27% del espacio permitido
+- [x] v2 — 0.707 bpb con BPE + 4-gramas + sliding window
+- [x] 41% de mejora sobre v1
+- [x] 65 KB — 0.4% del espacio permitido
+
 ## Author
 
 **Abraham hernandez dorantes**
